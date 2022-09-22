@@ -9,6 +9,10 @@
   <a href="#-license">📝 License</a>
 </p>
 
+## 💻 Projeto
+
+Projeto de recriação do jogo da mémoria utilizando HTML, CSS e JavaScript.
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -16,10 +20,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
-
-## 💻 Projeto
-
-Projeto de recriação do jogo da mémoria utilizando HTML, CSS e JavaScript.
 
 ## 📝 License
 
